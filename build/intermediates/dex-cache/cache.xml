@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\txstc\Desktop\coding\csc249\liveness_detection\openCVLibrary24132\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a67ba54aafd1e190c46b414a2b0fee28634d6ea">
+        <dex dex="C:\Users\txstc\Desktop\coding\csc249\liveness_detection\eye_detect\build\intermediates\pre-dexed\debug\classes_2c1d8ac4bc0259a62ca7829cbec870eef7f05f13.jar" />
+    </item>
+
+</items>

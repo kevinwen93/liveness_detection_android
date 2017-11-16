@@ -1,0 +1,3 @@
+include ':sdk'
+include ':eye_detect'
+include ':openCVLibrary24132'

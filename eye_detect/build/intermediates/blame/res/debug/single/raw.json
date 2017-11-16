@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\build\\intermediates\\res\\merged\\debug\\raw\\ojol.xml",
+        "source": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\src\\main\\res\\raw\\ojol.xml"
+    },
+    {
+        "merged": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_righteye_2splits.xml",
+        "source": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\src\\main\\res\\raw\\haarcascade_righteye_2splits.xml"
+    },
+    {
+        "merged": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface_improved.xml",
+        "source": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\src\\main\\res\\raw\\lbpcascade_frontalface_improved.xml"
+    },
+    {
+        "merged": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_lefteye_2splits.xml",
+        "source": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\src\\main\\res\\raw\\haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\build\\intermediates\\res\\merged\\debug\\raw\\ojor.xml",
+        "source": "C:\\Users\\txstc\\Desktop\\coding\\csc249\\liveness_detection\\eye_detect\\src\\main\\res\\raw\\ojor.xml"
+    }
+]
